@@ -20,6 +20,7 @@ const showMeMoreBtn = document.getElementById("showbutton")
 const cancel = document.getElementById("closeSearch")
 const clear = document.getElementById("cancel");
 
+
 getMovies(api_url)
 
  function getMovies(url){
